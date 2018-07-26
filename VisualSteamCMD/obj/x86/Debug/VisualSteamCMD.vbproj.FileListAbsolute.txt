@@ -1,0 +1,15 @@
+L:\VisualStudio-Projects\VisualSteamCMD\VisualSteamCMD\bin\Debug\VisualSteamCMD.exe
+L:\VisualStudio-Projects\VisualSteamCMD\VisualSteamCMD\bin\Debug\VisualSteamCMD.pdb
+L:\VisualStudio-Projects\VisualSteamCMD\VisualSteamCMD\bin\Debug\VisualSteamCMD.xml
+L:\VisualStudio-Projects\VisualSteamCMD\VisualSteamCMD\obj\x86\Debug\VisualSteamCMD.Resources.resources
+L:\VisualStudio-Projects\VisualSteamCMD\VisualSteamCMD\obj\x86\Debug\VisualSteamCMD.vbproj.GenerateResource.Cache
+L:\VisualStudio-Projects\VisualSteamCMD\VisualSteamCMD\obj\x86\Debug\VisualSteamCMD.exe
+L:\VisualStudio-Projects\VisualSteamCMD\VisualSteamCMD\obj\x86\Debug\VisualSteamCMD.xml
+L:\VisualStudio-Projects\VisualSteamCMD\VisualSteamCMD\obj\x86\Debug\VisualSteamCMD.pdb
+L:\VisualStudio-Projects\VisualSteamCMD\VisualSteamCMD\obj\x86\Debug\VisualSteamCMD.vbprojAssemblyReference.cache
+L:\VisualStudio-Projects\VisualSteamCMD\VisualSteamCMD\obj\x86\Debug\VisualSteamCMD.vbproj.CoreCompileInputs.cache
+L:\VisualStudio-Projects\VisualSteamCMD\VisualSteamCMD\obj\x86\Debug\VisualSteamCMD.main.resources
+L:\VisualStudio-Projects\VisualSteamCMD\VisualSteamCMD\bin\Debug\VisualSteamCMD.exe.manifest
+L:\VisualStudio-Projects\VisualSteamCMD\VisualSteamCMD\bin\Debug\VisualSteamCMD.application
+L:\VisualStudio-Projects\VisualSteamCMD\VisualSteamCMD\obj\x86\Debug\VisualSteamCMD.exe.manifest
+L:\VisualStudio-Projects\VisualSteamCMD\VisualSteamCMD\obj\x86\Debug\VisualSteamCMD.application
